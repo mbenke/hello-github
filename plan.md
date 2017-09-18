@@ -7,3 +7,8 @@
 ## Literatura
 
 Christopher Allen, Julie Moronuki, *Haskell Programming from first Principles*, http://haskellbook.com/
+
+## Narzędzia
+
+* Stack: https://haskellstack.org
+* Haskell For Mac: http://haskellformac.com/
